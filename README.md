@@ -1,5 +1,4 @@
 # Texas-University-App
-University Locator
 University Locator is an iOS application built with Swift that displays a list of universities and their addresses. The app features a search bar that allows users to filter the list of universities based on their names. When a university is selected, the app displays its address on a map in a detail view.
 Features
 
